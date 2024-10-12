@@ -408,7 +408,7 @@ Has aprendido sobre:
 - Qué son Jobs.
 - Qué son Runners.
 - Qué son Steps.
-- Qué son Ations.
+- Qué son Actions.
 - Cuál es la sintaxis de un workflow file.
 - Cuáles son los principales Triggers.
 - Uso de Expresiones.
