@@ -259,7 +259,7 @@ Puedes combinar valores literales, referencias de contexto y funciones usando op
         edad:
           description: 'Edad'
           required: true
-          type: integer
+          type: number
         nombre:
           description: 'Tu nombre'
           required: true
